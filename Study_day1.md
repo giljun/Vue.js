@@ -9,5 +9,14 @@
 
 - [Vue.js dev tools](https://chrome.google.com/webstore/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd)
 
-## Vis
+## Visual Studio Code Extension
 
+- Vetur
+- Night Owl
+- Material Icon Theme
+- Live Server
+- ESLint
+- Prettier
+- Auto Close Tag
+- Atom keymap
+- 
